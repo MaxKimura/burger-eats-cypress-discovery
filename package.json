@@ -1,0 +1,15 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "projeto de teste do app burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "maxwell",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
